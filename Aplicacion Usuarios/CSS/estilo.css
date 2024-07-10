@@ -1,0 +1,58 @@
+*{
+  border: 0;
+  margin: 10px;
+  text-align: center;
+}
+
+header{
+  color: red;
+}
+footer{
+  font-weight: bold;
+}
+
+form div{
+  font-size: 25px;
+}
+
+form div input, select{
+  width: 300px;
+  background: grey;
+  height: 20px;
+  text-align: left;
+  font-size: 20px;
+}
+
+#btn{
+  background: blue;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+nav{
+  margin: 0px 0px;
+  border: 0px solid #000000;
+  background: rgb(200,200,200,.5);
+  padding:0px;
+  text-align:left;
+  list-style:none;
+}
+
+nav li{
+  display: inline-block;
+  list-style:none;
+  padding:5px;
+  font-size:90%;
+}
+
+nav li a{
+  font-size: 18px;
+}
+
+table{
+  margin:0;
+  border-collapse: collapse;
+  width:100%;
+}
